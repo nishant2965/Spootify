@@ -21,7 +21,7 @@ else {
 
 <html>
 <head>
-	<title>Welcome to Slotify!</title>
+	<title>Welcome to Spootify!</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
